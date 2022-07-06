@@ -1,0 +1,109 @@
+h1 {
+    text-align: left;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .main_form {
+    border: 2px solid grey;
+    border-radius: 20px;
+    width: 380px;
+    height: 430px;
+    margin: 25px;
+    padding: 30px;
+    color: gray;
+    text-align: left;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    .form_2 {
+    border-radius: 20px;
+    width: 500px ;
+    height: 200px;
+    text-align: left;
+    border: 0.5px solid transparent; 
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    
+    p {
+    text-align: right;
+    color: gray;
+    margin: 10px;
+    padding-left: 15px;
+    font-size: 15px;
+    }
+
+    .btn_redirect {
+    background-color: white;
+    border: 2px solid grey;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 355px;
+    height: 55px;
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    }
+    
+    .btn_login {
+    background-color: yellow;
+    border: 0.5px solid transparent; 
+    border-radius: 30px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 355px;
+    height: 55px;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    }
+    
+    .inputText_email {
+    border-radius: 30px;
+    border: 2px solid grey;
+    font-size: 15px;
+    width: 355px;
+    height: 55px;
+    text-align: left;
+    text-indent: 15px;
+    padding: 5px;
+    margin: 5px;
+    align-items: center;
+    }
+
+    .inputText_password {
+    border-radius: 30px;
+    border: 2px solid grey;
+    font-size: 15px;
+    width: 355px;
+    height: 55px;
+    text-align: left;
+    align-items: center;
+    text-indent: 15px;
+    padding: 5px;
+    margin: 5px;
+    }
+    
+    .form_cross {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    margin-left: 355px;
+    }
+    
+    a {
+    color: gray;
+    text-decoration: none;
+    }
+    
+    
+    
